@@ -1,3 +1,3 @@
 Aplicativo desenvolvido na maratona com 10 aulas disponibilizada pela Alura, traz as funcionalidades básicas de um app de corrida para ensino de funções e códigos em HTML, CSS e JavaScript. Além disto, foram desenvolvidos outros exercícios e projetos na maratona, incluindo a criação de um certificado digital.
 
-<a href="https://imgflip.com/gif/3w2kkr">via Imgflip</a>
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:73.61%;position:relative;"><iframe width="360" height="265" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3w2kkr"></iframe></div><p><a href="https://imgflip.com/gif/3w2kkr">via Imgflip</a></p></div>
