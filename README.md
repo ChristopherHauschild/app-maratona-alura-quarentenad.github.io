@@ -2,7 +2,9 @@ Aplicativo desenvolvido na maratona com 10 aulas disponibilizada pela Alura, tra
 
 
 
-![](https://raw.githubusercontent.com/ChristopherHauschild/app-maratona-alura-quarentenadev/master/video.gif | =250x250)
+![](https://raw.githubusercontent.com/ChristopherHauschild/app-maratona-alura-quarentenadev/master/video.gif)
+
+<img src="https://raw.githubusercontent.com/ChristopherHauschild/app-maratona-alura-quarentenadev/master/video.gif" width="40" height="40" />
 
 
 
