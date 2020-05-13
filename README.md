@@ -3,7 +3,7 @@ Aplicativo desenvolvido na maratona com 10 aulas disponibilizada pela Alura, tra
 
 <hr>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChristopherHauschild/app-maratona-alura-quarentenadev/master/tela.gif" width="800" height="540"/>
+  <img src="https://raw.githubusercontent.com/ChristopherHauschild/app-maratona-alura-quarentenadev/master/tela.gif" width="760" height="540"/>
 </p>
 
 ## Linguagens e tecnologias utilizadas: :computer:
