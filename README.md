@@ -20,7 +20,7 @@ Link para o Codepen, onde foram desevolvidos os códigos: https://codepen.io/Chr
 O repositório com as demais atividades e projetos desenvolvidos durante a maratona pode ser encontrado neste <a href="https://github.com/ChristopherHauschild/maratona-alura-quarentenadev/">link</a>
 <hr>
 
-Atividades e projetos desenvolvidos com horas a frente do :computer: por Christopher H. Schott
+Atividades e projetos desenvolvidos com horas a frente do :computer: por Christopher H. Schott 
 
 
 
